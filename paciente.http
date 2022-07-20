@@ -1,0 +1,20 @@
+@api = http://localhost:3000/pacientes
+
+GET {{api}}
+
+###
+GET {{api}}/1
+
+###
+POST {{api}}
+Content-Type: application/json
+
+{
+    "ci": 2,
+    "nombres": "Micaela",
+    "paterno": "Aparicio",
+    "materno": "Duarte",
+    "correo": "mica@gmail.com",
+    "telefono": "87654321",
+    "edad": "90"
+} 
