@@ -1,7 +1,7 @@
 export const config = {
     host:"58ppc7qp9xrt.us-east-3.psdb.cloud",
-    user : "q5n4atnsb2uv",
-    password : "pscale_pw_1F4YegXSCSPVqr5KQc_Bs7Gzo8j7cs17JV75eEtaJ84",
+    user : "6voq3bc75jbu",
+    password : "pscale_pw_qbNNJvO5Xy2_FIZwAaTSy-SK50L5cWGpisO31rjU81g",
     database: "dentist",
     ssl:{
         rejectUnauthorized:false
